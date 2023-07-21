@@ -1,2 +1,2 @@
-# pjaramillr.github.io
+# microeconometria.github.io
 Taller 1 de tópicos en econometría
